@@ -1,4 +1,3 @@
-*.exe
 
 # Rust artifacts
 target/

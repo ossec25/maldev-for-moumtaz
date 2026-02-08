@@ -1,4 +1,4 @@
-# Activité : Développement de malware (approche pédagogique)
+# Observations personnelles : Développement de malware 
 
 ## 1. Introduction
 
